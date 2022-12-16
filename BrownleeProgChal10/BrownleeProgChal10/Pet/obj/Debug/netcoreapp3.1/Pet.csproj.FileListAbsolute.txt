@@ -1,0 +1,15 @@
+C:\Users\Brean\source\repos\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.exe
+C:\Users\Brean\source\repos\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.deps.json
+C:\Users\Brean\source\repos\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.runtimeconfig.json
+C:\Users\Brean\source\repos\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.runtimeconfig.dev.json
+C:\Users\Brean\source\repos\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.dll
+C:\Users\Brean\source\repos\Pet\Pet\bin\Debug\netcoreapp3.1\Pet.pdb
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.csprojAssemblyReference.cache
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.Form1.resources
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.csproj.GenerateResource.cache
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfoInputs.cache
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.AssemblyInfo.cs
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.csproj.CoreCompileInputs.cache
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.dll
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.pdb
+C:\Users\Brean\source\repos\Pet\Pet\obj\Debug\netcoreapp3.1\Pet.genruntimeconfig.cache
